@@ -95,15 +95,9 @@
 
 .gallery-item:hover .gallery-thumb .gallery-zoom {
     display: block;
-    left: 50%;
-    margin-left: -48px;
+    margin-left: 155px;
 }
 
-.gallery-item:hover .gallery-thumb .gallery-link {
-    display: block;
-    right: 50%;
-    margin-right: -48px;
-}
 
 .gallery-item .gallery-details {
     text-align: center;
